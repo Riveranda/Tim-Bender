@@ -4,7 +4,7 @@
 
 ### Current Projects :hammer_and_wrench:
 
-<p align="center">My current projects include my senior capstone, Catscript, an original object oriented language whose compliler is written in Java.</p>
+<p align="center">My current projects include my senior capstone, Catscript, an original object oriented language whose compliler is written in Java. In addition to this, I am activitely building and developing a robotic buggie powered by a raspberry pi and driven by Opencv. This robitic buggie will be driven by an android application leveraging Kotlin's server sockets. </p>
 
 
 
