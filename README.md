@@ -1,7 +1,6 @@
-### Hi there 👋
+### Hello There! 👋
+My name is Timothy Bender, and I am a senior at Montana State University, Bozeman, studying Computer Science. 
 
-<!--
-**Tim-Bender/Tim-Bender** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
