@@ -7,6 +7,6 @@
 ### Current Focus :hammer_and_wrench:
 <p align="left">Currently improving my Python and Kotlin skills as well as dabbling in Tensorflow </p>
 
-- 📝 [Resume](https://github.com/Tim-Bender/Tim-Bender/blob/main/Timothy%20Bender%20Resume.pdf)
+📝 [Resume](https://github.com/Tim-Bender/Tim-Bender/blob/main/Timothy%20Bender%20Resume.pdf)
 
 
